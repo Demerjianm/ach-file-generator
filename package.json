@@ -1,0 +1,11 @@
+{
+  "name": "ach-file-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "nach2": "^0.5.1"
+  }
+}
